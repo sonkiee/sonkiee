@@ -1,6 +1,5 @@
 #### Hi there 👋
 
-Hi there 👋
 
 Developer building backend systems and mobile apps.
 
